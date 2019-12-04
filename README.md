@@ -7,15 +7,23 @@ The goal of this project is to build different machine learning models to predic
 
 
 Pageckage version:
-n/
+
 numpy==1.17.1
-n/pandas==0.25.0
+
+pandas==0.25.0
 
 scikit-learn==0.21.3
+
 plotly==4.1.1
+
 matplotlib-base=3.1.1
+
 python=3.7.3
+
 jupyter-client==5.3.1
+
 jupyter-core==4.4.0
+
 jupyterlab==1.1.1
+
 jupyterlab-server==1.0.6
