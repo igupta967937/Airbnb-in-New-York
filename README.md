@@ -7,9 +7,9 @@ The goal of this project is to build different machine learning models to predic
 
 
 Pageckage version:
+n/
 numpy==1.17.1
-
-pandas==0.25.0
+n/pandas==0.25.0
 
 scikit-learn==0.21.3
 plotly==4.1.1
