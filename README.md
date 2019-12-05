@@ -27,3 +27,15 @@ jupyter-core==4.4.0
 jupyterlab==1.1.1
 
 jupyterlab-server==1.0.6
+
+ethnicolr==0.3.0
+
+folium==0.10.1
+
+Keras==2.2.4
+
+nltk==3.4.5
+
+tensorflow==1.14.0
+
+wordcloud==1.6.0
